@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#practiceJS {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#btn {
+	height: 3em;
+	display: flex;
+	margin-left: 46em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding: 2em;
+	align-items: center;
+	justify-content: center;
+}
+
+#appleJuice {
+	text-align: center;
+}
